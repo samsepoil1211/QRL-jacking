@@ -1,24 +1,20 @@
 *QRLJacking* - A New Social Engineering Attack Vector
 ====================
-![](https://github.com/OWASP/QRLJacking/blob/master/blob/images/QRLJacking.JPG?raw=true)
+![](https://github.com/samsepoil1211/QRLJacking/blob/master/blob/images/QRLJacking.JPG?raw=true)
 
 
 
 
 
 
-Find documentation in our [Wiki](https://github.com/OWASP/QRLJacking/wiki).
+Find documentation in our [Wiki](https://github.com/samsepoil1211/QRLJacking/wiki).
 ## What is QRLJacking?
 QRLJacking or Quick Response Code Login Jacking is a simple social engineering attack vector capable of session hijacking affecting all applications that rely on the “Login with QR code” feature as a secure way to login into accounts. In a nutshell, the victim scans the attacker’s QR code which results in session hijacking.
 
 
 ## Exploitation, Client Side Setup (Attacker's browser):
 
-Using QRLJacker - [QRLJacking Exploitation Framework](https://github.com/OWASP/QRLJacking/tree/master/QRLJacker)
-
-## Demo Video:
-Attacking WhatsApp Web Application and performing a MITM attack to inject a bogus ad including WhatsApp QR Code.
-[Demo Video](https://goo.gl/NLRdtZ)
+Using QRLJacker - [QRLJacking Exploitation Framework](https://github.com/samsepoil1211/QRLJacking/tree/master/QRLJacker)
 
 
 ## Technical Paper
@@ -57,23 +53,4 @@ AirDroid
 ### Other Services:
 
 MyDigiPass, Zapper & Zapper WordPress Login by QR Code plugin, Trustly App, Yelophone, Alibaba Yunos
-
-# Author
-
-
-[Mohamed Abdelbasset Elnouby (@SymbianSyMoh)](https://github.com/SymbianSyMoh)
-
-Mohamed.Baset@OWASP.org
-
-# Acknowledgements
-(List in no particular order)
-
-- [Mohamed Abdel Aty (@M_Aty)](https://github.com/mohamedaty)
-- [Mostafa Kassem (@Zanzofily)](https://github.com/Zanzofily)
-- [Karim Shoair (@D4Vinci)](https://github.com/D4Vinci)
-- [Abdelrahman Shawky (@ShawkyZ)](https://github.com/ShawkyZ)
-- [Ahmed Elsobky (@0xSobky)](https://github.com/0xSobky)
-- [Ahmed Abbas (@Fiberghost)](https://github.com/fiberghost)
-- [Hiram Camarillo (@Hiramcoop)](https://github.com/hiramcoop)
-- [Juan Carlos Mejia (@Th3kr45h)](https://github.com/th3kr45h)
 
